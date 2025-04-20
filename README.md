@@ -4,7 +4,7 @@ This experiment uses MegaDetector for the initial screening of camera trap image
 
 ## Dataset Description
 
-This experiment takes the **Snapshot Enonkishu** and **Snapshot Camdeboo ** as example datasets, and the task is identifying camera trap empty images.
+This experiment takes the **Snapshot Enonkishu** and **Snapshot Camdeboo** as example datasets, and the task is identifying camera trap empty images.
 
 ## Folder Structure
 
@@ -50,7 +50,7 @@ Please change the path of dataset and annotation files
 ```python
 # root path of dataset
 path_detect_root = r''
-# path of annotation
+# path of annotation files
 path_annotation = r''
 ```
 
